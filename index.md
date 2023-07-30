@@ -1,6 +1,7 @@
 ---
 layout: about
 ---
+[（中文版简历）](https://fynnzhou.github.io/MySiteCN/)
 # EDUCATION
 
 ## The Chinese University of Hong Kong, Shenzhen
