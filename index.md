@@ -1,8 +1,11 @@
 ---
 layout: about
 ---
-[<font color=SteelBlue face="宋体">（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
-# EDUCATION
+[<font color=SteelBlue face="楷体">（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
+
+# Education
+
+---
 
 ## The Chinese University of Hong Kong, Shenzhen
 
@@ -24,9 +27,18 @@ layout: about
 
 # Career
 
+---
+
+### China Galaxy Securities CO. LTD
+
+#### 2023/07 ~ 2023/08, Peking, China
+
+Summer Intern, Asset Management Headquarter
+
+
 ### Beijing Joinquant Investment MGMT CO. LTD
 
-A hedge fund of China’s biggest quant platform, with AUM close to 20 billion(CNY)
+A hedge fund of China’s biggest quant platform, with AUM close to 15 billion(CNY)
 
 #### 2022/10 ~ 2023/05, Peking, China
 
@@ -65,9 +77,11 @@ General Office, Chief Assistant
 * Obtained the national data of the second quarter, organized data. Helped to write the data book for the second quarter of 2019
 * Assisted in proofreading and writing the draft of the 790th, 791st, and 792nd Xi’an Investigation. Mainly responsible for drafting the data description
 
-<br/>
+
 
 # Projects
+
+---
 
 #### Signal Mining Based on Genetic Algorithm (Summer Project A+)
 
@@ -95,3 +109,5 @@ General Office, Chief Assistant
 
 * Built classic Europe and American call option, with SSE 50 index as the underlying asset, by using binary tree generation, monte carlo simulation and BSM model, Calculated Greeks and compared them with quotations from the market
 * Priced the European style forward start option, with the option built above as the underlying asset, by using binary tree generation and monte carlo simulation
+
+---
