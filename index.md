@@ -1,7 +1,7 @@
 ---
 layout: about
 ---
-[（中文版简历）](https://fynnzhou.github.io/MySiteCN/)
+[<font color=SteelBlue face="宋体">（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
 # EDUCATION
 
 ## The Chinese University of Hong Kong, Shenzhen
