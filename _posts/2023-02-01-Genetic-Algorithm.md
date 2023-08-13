@@ -3,7 +3,7 @@ layout: post
 title:  "Signal Mining Based on Genetic Programming"
 info: "Used the Genetic Programming to generate factors for stock selecting "
 tech: "python"
-type: Multifactor 
+type: Multi factor 
 ---
 ## Abstract
 
@@ -13,9 +13,4 @@ In this project, I used the Genetic Programming to excavate signals for stocks, 
 
 Click and you can reach the [$ \it{\color{SteelBlue}{Textual \enspace\ Report}}$](../assets/pdfs/genetic_programming_ppt.pdf 'Genetic Programming') . And click here you can reach the source code on github.
 
-## Techique
-
- 
-
-## Result
 
