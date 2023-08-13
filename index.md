@@ -47,7 +47,6 @@ Research Intern, Derivatives Division
 
 * Conduct research on stock index future market intraday and overnight trading anomalies. Using analysis, for instance, filtering, complex momentum and hedging pressure to dig out trading signals
 * Maximizing excess returns and minimize risks with diversified allocation and compound signals
-<br>
 
 ### University College London
 
@@ -59,7 +58,6 @@ Work Group III，Summer Research Intern
 
 * Collected references, publications, introductions and research interests of the main authors of six Assessment Reports by the Intergovernmental Panel on Climate Change (IPCC)
 * Established a nonprofit scientific information database
-<br>
 
 ### Xi’an Monte Carlo Fund MGMT CO. LTD
 
@@ -70,7 +68,6 @@ Research Intern
 * Extended functions of the alphalens library, and conducted experiences on the predictability of commodity futures factors of six classes, for instance, momentum, hedging demand and fundamentals
 * Conducted research on improvement in factors formation and combination and portfolio optimization
 * Horse racing results, from 2010-01 to 2021-02, annualized return: 28.93%, Sharpe ratio: 1.76
-<br>
 
 ### Xi’an Investigation Team, National Bureau of Statistics
 
@@ -91,27 +88,23 @@ General Office, Chief Assistant
 
 * Used the Genetic algorithm to excavate signals for stocks, with Rank IC as fitness, N-day future return as the target labels, two typical periods of A share market as training sets and several functions as operators
 * Results: generated four signals with distinct horse racing net value quantiles and high fitness of Rank IC
-<br>
 
 #### Risk Parity & All Weather Strategy (Course Project 96/100)
 
 * Reproduced the All-weather and Risk Parity algorithms, and tested their profitability on Chinese assets
 * Optimized Risk Parity portfolio by using Principal Component Analysis
 * Horse racing results: from 2014-12 to 2020-05, annualized return 10.1%, Sharpe ratio: 1.01
-<br>
 
 #### Factor Analysis Model (Undergraduate Research Program, Prof. Xianghui YUAN)
 
 * Reproduced Factor Analysis Model with python, referring to Barra USE3 Handbook and alphalens, including data cleaning, factor return estimation (quantile backtesting) and IC analysis
 * Finished a report by analyzing ROA factor with the Factor Analysis Model
-<br>
 
 #### Mean Reversion Strategy
 
 * Built industry chain arbitrage algorithms based on Three-sigma Rule, and reduce risks with EMA smoothing method
 * Tried to increase the prediction accuracy of 5-min level price difference trend with the help of LSTM algorithm
 * Paper trading results: from 2019-09 to 2022-03, annualized return 8.98%, Sharpe ratio 0.57
-<br>
 
 #### Forward Start Option Pricing
 
