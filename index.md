@@ -9,7 +9,7 @@ layout: about
 
 ## The Chinese University of Hong Kong, Shenzhen
 
-##### 2022/09 ~ Present, Expected 2024/03
+#### 2022/09 ~ Present, Expected 2024/03
 
 ### MSc in Financial Engineering, School of Data Science
 
@@ -18,7 +18,7 @@ layout: about
 
 ## Xi'an Jiaotong University
 
-##### 2017/09 ~ 2021/07
+#### 2017/09 ~ 2021/07
 
 ### BSc in Financial Engineering, School of Finance and Economics
 
@@ -117,5 +117,15 @@ General Office, Chief Assistant
 
 * Built classic Europe and American call option, with SSE 50 index as the underlying asset, by using binary tree generation, monte carlo simulation and BSM model, Calculated Greeks and compared them with quotations from the market
 * Priced the European style forward start option, with the option built above as the underlying asset, by using binary tree generation and monte carlo simulation
+
+# Additional
+
+---
+
+* Data mining and analysis; Basic data structure, semaphore and machine learning algorithm
+* Pythonic programming; SQL, Linux(basic), Wind, Bloomberg, MS Office(Advanced Skills), C++
+* Time series modeling, Factor digging and analysis
+* Mandarin: Native; English: IELTS 6.5
+* Class president, an Aficionado of sketching, cooking and climbing
 
 ---
