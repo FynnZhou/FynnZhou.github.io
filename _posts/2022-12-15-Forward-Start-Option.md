@@ -7,5 +7,5 @@ type: Exotic Option Pricing
 ---
 
 ## Abstract 
-For more information, see[$\it{\color{SteelBlue}{Full \enspace\ Report(EN)}}$](../assets/pdfs/forward_start_option.pdf)
+For more information, see[$\it{\color{SteelBlue}{Full \enspace\ Report(EN)}}$](../assets/pdfs/forward_start_option.pdf "Forward Start Option Pricing")
 

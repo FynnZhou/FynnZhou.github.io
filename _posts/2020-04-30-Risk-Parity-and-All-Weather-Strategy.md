@@ -8,4 +8,4 @@ type: Risk Parity
 ---
 ## Abstract
 
-For more information, see[ $\it{\color{SteelBlue}{Full \enspace\ Report(CN)}}$ ](../assets/pdfs/genetic_programming_ppt.pdf)
+For more information, see[ $\it{\color{SteelBlue}{Full \enspace\ Report(CN)}}$ ](../assets/pdfs/genetic_programming_ppt.pdf "Risk Parity")

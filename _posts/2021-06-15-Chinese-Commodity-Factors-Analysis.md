@@ -7,4 +7,4 @@ type: Multi-Factor
 ---
 
 ## Abstract
-For more information, see [$\it{\color{SteelBlue}{Full \enspace\ Report(CN)}}$](../assets/pdfs/commodity_factors.pdf)
+For more information, see [$\it{\color{SteelBlue}{Full \enspace\ Report(CN)}}$](../assets/pdfs/commodity_factors.pdf "Research on Commodity Factor")
