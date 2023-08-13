@@ -11,7 +11,7 @@ The genetic programming is originated from the evolutionary algorithm. Similar t
 
 In this project, I used the Genetic Programming to excavate signals for stocks, with Rank IC as fitness, N-day future returns as labels, two typical periods of A share market as training sets and several functions as operators. And the model finally generated several signals with distinct horse racing quantiles and high Rank IC values. 
 
-Click and you can reach the ( [$ \it{\color{SteelBlue}{textual \enspace\ report}}$](../assets/pdfs/genetic_programming_ppt.pdf 'Genetic Programming') ). And click here you can reach the source code on github.
+Click and you can reach the [$ \it{\color{SteelBlue}{Textual \enspace\ Report}}$](../assets/pdfs/genetic_programming_ppt.pdf 'Genetic Programming') . And click here you can reach the source code on github.
 
 ## Techique
 
