@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Yifei(Fynn) Zhou
-  desc: Hello there!  My name is Yifei Zhou, welcome to my site!
+  desc: Hello there!  My name is Yifei Zhou, welcome to my site! I'm fond of data analysis and algorithm trading
   email: fynnzhou@outlook.com
   selfie: assets/img/profile.jpg
 
