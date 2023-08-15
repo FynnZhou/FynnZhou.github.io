@@ -1,7 +1,7 @@
 ---
 layout: about
 ---
-[（切换至中文版）](https://fynnzhou.github.io/MySiteCN/)
+[$ \color{SteelBlue}{（切换至中文版）}$](https://fynnzhou.github.io/MySiteCN/)
 
 # Education
 
@@ -64,7 +64,7 @@ Work Group III，Summer Research Intern
 
 Research Intern
 
-* Extended functions of the alphalens library, and conducted experiences on the predictability of [commodity futures factors](2021-06-15/Chinese-Commodity-Factors-Analysis) of six classes, for instance, momentum, hedging demand and fundamentals
+* Extended functions of the alphalens library, and conducted experiences on the predictability of [commodity futures factors](2021-06-15/Chinese-Commodity-Factors-Analysis "Details of Commodity Factors") of six classes, for instance, momentum, hedging demand and fundamentals
 * Conducted research on improvement in factors formation and combination and portfolio optimization
 * Horse racing results, from 2010-01 to 2021-02, annualized return: 28.93%, Sharpe ratio: 1.76
 
@@ -81,12 +81,12 @@ General Office, Chief Assistant
 
 ---
 
-## [Signal Mining Based on Genetic Algorithm (Summer Project A+)](2023-02-01/Genetic-Algorithm)
+## [Signal Mining Based on Genetic Programming (Summer Project A+)](2023-02-01/Genetic-Programming "Details of Genetic Programming")
 
 * Used the Genetic algorithm to excavate signals for stocks, with Rank IC as fitness, N-day future return as the target labels, two typical periods of A share market as training sets and several functions as operators
 * Results: generated four signals with distinct horse racing net value quantiles and high fitness of Rank IC
 
-## [Risk Parity & All Weather Strategy (Course Project 96/100)](2020-04-30/Risk-Parity-and-All-Weather-Strategy)
+## [Risk Parity & All Weather Strategy (Course Project 96/100)](2020-04-30/Risk-Parity-and-All-Weather-Strategy "Details of Risk Parity")
 
 * Reproduced the All-weather and Risk Parity algorithms, and tested their profitability on Chinese assets
 * Optimized Risk Parity portfolio by using Principal Component Analysis
@@ -103,7 +103,7 @@ General Office, Chief Assistant
 * Tried to increase the prediction accuracy of 5-min level price difference trend with the help of LSTM algorithm
 * Paper trading results: from 2019-09 to 2022-03, annualized return 8.98%, Sharpe ratio 0.57
 
-## [Forward Start Option Pricing](2022-12-15/Forward-Start-Option)
+## [Forward Start Option Pricing](2022-12-15/Forward-Start-Option "Details of Forward Start Option")
 
 * Built classic Europe and American call option, with SSE 50 index as the underlying asset, by using binary tree generation, monte carlo simulation and BSM model, Calculated Greeks and compared them with quotations from the market
 * Priced the European style forward start option, with the option built above as the underlying asset, by using binary tree generation and monte carlo simulation
