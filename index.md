@@ -1,7 +1,7 @@
 ---
 layout: about
 ---
-[<font color=SteelBlue face="楷体">（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
+[（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
 
 # Education
 
@@ -40,7 +40,6 @@ Summer Intern, Asset Management Headquarter
 
 A hedge fund of China’s biggest quant platform, with AUM close to 15 billion(CNY)
 
-
 #### 2022/10 ~ 2023/05, Peking, China
 
 Research Intern, Derivatives Division
@@ -78,18 +77,16 @@ General Office, Chief Assistant
 * Obtained the national data of the second quarter, organized data. Helped to write the data book for the second quarter of 2019
 * Assisted in proofreading and writing the draft of the 790th, 791st, and 792nd Xi’an Investigation. Mainly responsible for drafting the data description
 
-
-
 # Projects
 
 ---
 
-#### Signal Mining Based on Genetic Algorithm (Summer Project A+)
+#### [Signal Mining Based on Genetic Algorithm (Summer Project A+)](_site/2023-02-01/Genetic-Algorithm.html)
 
 * Used the Genetic algorithm to excavate signals for stocks, with Rank IC as fitness, N-day future return as the target labels, two typical periods of A share market as training sets and several functions as operators
 * Results: generated four signals with distinct horse racing net value quantiles and high fitness of Rank IC
 
-#### Risk Parity & All Weather Strategy (Course Project 96/100)
+#### [Risk Parity & All Weather Strategy (Course Project 96/100)](_site/2020-04-30/Risk-Parity-and-All-Weather-Strategy.html)
 
 * Reproduced the All-weather and Risk Parity algorithms, and tested their profitability on Chinese assets
 * Optimized Risk Parity portfolio by using Principal Component Analysis
@@ -106,7 +103,7 @@ General Office, Chief Assistant
 * Tried to increase the prediction accuracy of 5-min level price difference trend with the help of LSTM algorithm
 * Paper trading results: from 2019-09 to 2022-03, annualized return 8.98%, Sharpe ratio 0.57
 
-#### Forward Start Option Pricing
+#### [Forward Start Option Pricing](_site/2022-12-15/Forward-Start-Option.html)
 
 * Built classic Europe and American call option, with SSE 50 index as the underlying asset, by using binary tree generation, monte carlo simulation and BSM model, Calculated Greeks and compared them with quotations from the market
 * Priced the European style forward start option, with the option built above as the underlying asset, by using binary tree generation and monte carlo simulation
@@ -116,7 +113,7 @@ General Office, Chief Assistant
 ---
 
 * Data mining and analysis; Basic data structure, semaphore and machine learning algorithm
-* Pythonic programming; SQL, Linux(basic), Wind, Bloomberg, MS Office(Advanced Skills), C++
+* Pythonic programming; Git, SQL, Linux(basic), Wind, Bloomberg, MS Office(Advanced Skills), C++, R, Java
 * Time series modeling, Factor digging and analysis
 * Mandarin: Native; English: IELTS 6.5
 * Class president, an Aficionado of sketching, cooking and climbing
