@@ -1,7 +1,7 @@
 ---
 layout: about
 ---
-[（切换至中文版）</font>](https://fynnzhou.github.io/MySiteCN/)
+[（切换至中文版）](https://fynnzhou.github.io/MySiteCN/)
 
 # Education
 
@@ -29,14 +29,14 @@ layout: about
 
 ---
 
-### China Galaxy Securities CO. LTD
+## China Galaxy Securities CO. LTD
 
 #### 2023/07 ~ 2023/08, Peking, China
 
 Summer Intern, Asset Management Headquarter
 <br>
 
-### Beijing Joinquant Investment MGMT CO. LTD
+## Beijing Joinquant Investment MGMT CO. LTD
 
 A hedge fund of China’s biggest quant platform, with AUM close to 15 billion(CNY)
 
@@ -47,7 +47,7 @@ Research Intern, Derivatives Division
 * Conduct research on stock index future market intraday and overnight trading anomalies. Using analysis, for instance, filtering, complex momentum and hedging pressure to dig out trading signals
 * Maximizing excess returns and minimize risks with diversified allocation and compound signals
 
-### University College London
+## University College London
 
 Group of Climate Change Economics(Prof. Zhifu MI)
 
@@ -58,17 +58,17 @@ Work Group III，Summer Research Intern
 * Collected references, publications, introductions and research interests of the main authors of six Assessment Reports by the Intergovernmental Panel on Climate Change (IPCC)
 * Established a nonprofit scientific information database
 
-### Xi’an Monte Carlo Fund MGMT CO. LTD
+## Xi’an Monte Carlo Fund MGMT CO. LTD
 
 #### 2020/12 ~ 2021/06, Xi'an, China
 
 Research Intern
 
-* Extended functions of the alphalens library, and conducted experiences on the predictability of commodity futures factors of six classes, for instance, momentum, hedging demand and fundamentals
+* Extended functions of the alphalens library, and conducted experiences on the predictability of [commodity futures factors](2021-06-15/Chinese-Commodity-Factors-Analysis) of six classes, for instance, momentum, hedging demand and fundamentals
 * Conducted research on improvement in factors formation and combination and portfolio optimization
 * Horse racing results, from 2010-01 to 2021-02, annualized return: 28.93%, Sharpe ratio: 1.76
 
-### Xi’an Investigation Team, National Bureau of Statistics
+## Xi’an Investigation Team, National Bureau of Statistics
 
 #### 2019/08 ~ 2019/09, Xi'an, China
 
@@ -81,29 +81,29 @@ General Office, Chief Assistant
 
 ---
 
-#### [Signal Mining Based on Genetic Algorithm (Summer Project A+)](_site/2023-02-01/Genetic-Algorithm.html)
+## [Signal Mining Based on Genetic Algorithm (Summer Project A+)](2023-02-01/Genetic-Algorithm)
 
 * Used the Genetic algorithm to excavate signals for stocks, with Rank IC as fitness, N-day future return as the target labels, two typical periods of A share market as training sets and several functions as operators
 * Results: generated four signals with distinct horse racing net value quantiles and high fitness of Rank IC
 
-#### [Risk Parity & All Weather Strategy (Course Project 96/100)](_site/2020-04-30/Risk-Parity-and-All-Weather-Strategy.html)
+## [Risk Parity & All Weather Strategy (Course Project 96/100)](2020-04-30/Risk-Parity-and-All-Weather-Strategy)
 
 * Reproduced the All-weather and Risk Parity algorithms, and tested their profitability on Chinese assets
 * Optimized Risk Parity portfolio by using Principal Component Analysis
 * Horse racing results: from 2014-12 to 2020-05, annualized return 10.1%, Sharpe ratio: 1.01
 
-#### Factor Analysis Model (Undergraduate Research Program, Prof. Xianghui YUAN)
+## Factor Analysis Model (Undergraduate Research Program, Prof. Xianghui YUAN)
 
 * Reproduced Factor Analysis Model with python, referring to Barra USE3 Handbook and alphalens, including data cleaning, factor return estimation (quantile backtesting) and IC analysis
 * Finished a report by analyzing ROA factor with the Factor Analysis Model
 
-#### Mean Reversion Strategy
+## Mean Reversion Strategy
 
 * Built industry chain arbitrage algorithms based on Three-sigma Rule, and reduce risks with EMA smoothing method
 * Tried to increase the prediction accuracy of 5-min level price difference trend with the help of LSTM algorithm
 * Paper trading results: from 2019-09 to 2022-03, annualized return 8.98%, Sharpe ratio 0.57
 
-#### [Forward Start Option Pricing](_site/2022-12-15/Forward-Start-Option.html)
+## [Forward Start Option Pricing](2022-12-15/Forward-Start-Option)
 
 * Built classic Europe and American call option, with SSE 50 index as the underlying asset, by using binary tree generation, monte carlo simulation and BSM model, Calculated Greeks and compared them with quotations from the market
 * Priced the European style forward start option, with the option built above as the underlying asset, by using binary tree generation and monte carlo simulation
